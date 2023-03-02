@@ -1,6 +1,6 @@
 {
-  "name": "Clock PWA",
-  "short_name": "Clock",
+  "name": "Thin Clock",
+  "short_name": "ThinClock",
   "icons": [{
     "src": "images/hello-icon-128.png",
       "sizes": "128x128",
@@ -28,7 +28,8 @@
     }],
   "lang": "en-US",
   "start_url": "./clock-pwa.html",
-  "display": "standalone",
+  "display": "fullscreen",
+  "orientation":  "landscape",
   "background_color": "black",
   "theme_color": "black"
 }
