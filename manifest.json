@@ -2,7 +2,7 @@
     "name": "Clock",
     "short_name": "Clock",
     "lang": "en-US",
-    "start_url": "/clock-pwa.html",
+    "start_url": "./clock-pwa.html",
     "display": "standalone",
     "background_color": "black",
     "theme_color": "white"
