@@ -1,7 +1,6 @@
-var cacheName = 'clock';
-var filesToCache = [
-  '/',
-  '/clock-pwa.html'
+const cacheName = 'clock-pwa';
+const filesToCache = [
+  './clock-pwa.html'
 ];
 
 /* Start the service worker and cache all of the app's content */
