@@ -1,6 +1,7 @@
-const cacheName = 'clock-pwa';
+const cacheName = 'clock-pwa-index';
 const filesToCache = [
-  './clock-pwa.html'
+  './',
+  './index.html'
 ];
 
 /* Start the service worker and cache all of the app's content */
